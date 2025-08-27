@@ -2,9 +2,7 @@
 
 This notebook presents a python implementation of the paper titled "Decentralized formation with collision avoidance of multi-agent conformable fractional nonlinear robot systems" [1].
 
-<video width="320" height="240" controls>
-  <source src="formation_square.mp4" type="video/mp4">
-</video>
+![Lidar Object Detection Demo](cff_sim.gif)
 
 ## References
 
